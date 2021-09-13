@@ -23,21 +23,20 @@ You can find **[links](https://inverseflash.github.io/My-Website/#Portfolio)** t
 - **Stack**: Javascript, NodeJS, React, PostgreSQL, Heroku
 - **GitHub**: [My-Face-Recognition](https://github.com/InverseFlash/My-Face-Recognition)
 - **Live Demo**: [Click here](https://dry-citadel-98524.herokuapp.com/)
-- **Desc**: A multi-component web application to demonstrate the capabilities of Clarifai’s facial recognition API
+- A multi-component web application to demonstrate the capabilities of Clarifai’s facial recognition API
 
 ### Robofriends
 
 - **Stack**: Javascript, React, Redux, GitHub Pages
 - **GitHub**: [robofriends](https://github.com/InverseFlash/robofriends)
 - **Live Demo**: [Click here](https://inverseflash.github.io/robofriends/)
-- **Desc**: A web app built with react, redux, redux middleware and loggers to demonstrate redux working with react.
+- A web app built with react, redux, redux middleware and loggers to demonstrate redux working with react.
 
 ### Weather-By-Me (WIP)
 
 - **Stack**: Dart, Flutter, RxDart
 - **GitHub**: [Weather-By-Me](https://github.com/InverseFlash/weather_by_me)
-- **Live Demo**: [Click here](https://inverseflash.github.io/robofriends/)
-- **Desc**: A mobile weather app using BLoC pattern with RxDart.
+- A mobile weather app using BLoC pattern with RxDart.
 
 ## Contact
 
