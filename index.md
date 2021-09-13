@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Welcome to My Website
 
-You can use the [editor on GitHub](https://github.com/InverseFlash/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can find [links](https://inverseflash.github.io/My-Website/#Portfolio) to my hosted work below along with their respective GitHub repo.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Thanks for dropping by!
 
-### Markdown
+### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hello. I'm Justin, a Full Stack Developer.
 
-```markdown
-Syntax highlighted code block
+Most of my experience is in full stack web development, working with modern web technologies to build web applications.
 
-# Header 1
-## Header 2
-### Header 3
+I love working with tech. Feel free to [contact me](https://inverseflash.github.io/My-Website/#contact) if your looking for a developer to join your team.
 
-- Bulleted
-- List
+### Portfolio
 
-1. Numbered
-2. List
+#### My-Face-Recognition
 
-**Bold** and _Italic_ and `Code` text
+**Stack**: Javascript, NodeJS, React, Postgresql, Heroku
+**GitHub**: [My-Face-Recognition](https://github.com/InverseFlash/My-Face-Recognition)
+**Live Demo**: [Click here](https://dry-citadel-98524.herokuapp.com/)
+**Desc**: A multi-component web application to demonstrate the capabilities of Clarifai’s facial recognition API
 
-[Link](url) and ![Image](src)
-```
+#### Robofriends
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Stack**: Javascript, React, Redux, GitHub Pages
+**GitHub**: [robofriends](https://github.com/InverseFlash/robofriends)
+**Live Demo**: [Click here](https://inverseflash.github.io/robofriends/)
+**Desc**: A web app built with react, redux, redux middleware and loggers to demonstrate redux working with react.
 
-### Jekyll Themes
+#### Weather-By-Me (WIP)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/InverseFlash/website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Stack**: Dart, Flutter, RxDart
+**GitHub**: [Weather-By-Me](https://github.com/InverseFlash/weather_by_me)
+**Live Demo**: [Click here](https://inverseflash.github.io/robofriends/)
+**Desc**: A mobile weather app using BLoC pattern with RxDart.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Justin Stosic
+jstos283@gmail.com
