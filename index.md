@@ -10,9 +10,9 @@ I'm **Justin**, a **Full Stack Software Developer**.
 
 Most of my experience is in full stack web development, working with modern web technologies to build web applications.
 
-I love working with tech. Feel free to **[contact me](https://inverseflash.github.io/My-Website/#contact)** if your looking for a developer to join your team.
+I love working with tech. Feel free to **[contact me](https://inverseflash.github.io/Justin-Stosic/#contact)** if your looking for a developer to join your team.
 
-You can find **[links](https://inverseflash.github.io/My-Website/#Portfolio)** to my hosted work below along with their respective GitHub repo.
+You can find **[links](https://inverseflash.github.io/Justin-Stosic/#Portfolio)** to my hosted work below along with their respective GitHub repo.
 
 ## Portfolio
 
