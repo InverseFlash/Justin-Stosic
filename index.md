@@ -20,7 +20,7 @@ You can find **[links](https://inverseflash.github.io/My-Website/#Portfolio)** t
 
 ### My-Face-Recognition
 
-- **Stack**: Javascript, NodeJS, React, Postgresql, Heroku
+- **Stack**: Javascript, NodeJS, React, PostgreSQL, Heroku
 - **GitHub**: [My-Face-Recognition](https://github.com/InverseFlash/My-Face-Recognition)
 - **Live Demo**: [Click here](https://dry-citadel-98524.herokuapp.com/)
 - **Desc**: A multi-component web application to demonstrate the capabilities of Clarifai’s facial recognition API
