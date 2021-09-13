@@ -1,6 +1,6 @@
 # Welcome to My Website
 
-Hello. I'm Justin, a Full Stack Developer.
+Hello. I'm Justin, a **Full Stack Developer**.
 
 ## About Me
 
@@ -8,9 +8,9 @@ Hello. I'm Justin, a Full Stack Developer.
 
 Most of my experience is in full stack web development, working with modern web technologies to build web applications.
 
-I love working with tech. Feel free to [contact me](https://inverseflash.github.io/My-Website/#contact) if your looking for a developer to join your team.
+I love working with tech. Feel free to **[contact me](https://inverseflash.github.io/My-Website/#contact)** if your looking for a developer to join your team.
 
-You can find [links](https://inverseflash.github.io/My-Website/#Portfolio) to my hosted work below along with their respective GitHub repo.
+You can find **[links](https://inverseflash.github.io/My-Website/#Portfolio)** to my hosted work below along with their respective GitHub repo.
 
 ## Portfolio
 
@@ -41,4 +41,4 @@ You can find [links](https://inverseflash.github.io/My-Website/#Portfolio) to my
 
 ---
 
-To get in touch, you can email me (jstos283@gmail.com), or message me directly using my discord handle **ReverseFlash#1476**
+To get in touch, you can email me at jstos283@gmail.com, or message me directly using my discord handle **ReverseFlash#1476**
