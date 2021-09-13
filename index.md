@@ -41,4 +41,4 @@ You can find [links](https://inverseflash.github.io/My-Website/#Portfolio) to my
 
 ---
 
-Justin Stosic @ jstos283@gmail.com
+To get in touch, you can email me (jstos283@gmail.com), or message me directly using my discord handle **ReverseFlash#1476**
