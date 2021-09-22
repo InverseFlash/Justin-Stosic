@@ -20,23 +20,23 @@ You can find **[links](https://inverseflash.github.io/Justin-Stosic/#Portfolio)*
 
 ### My-Face-Recognition
 
-- **Stack**: Javascript, NodeJS, React, PostgreSQL, Heroku
+- **Stack**: Javascript - NodeJS - React - PostgreSQL - Heroku
 - **GitHub**: [My-Face-Recognition](https://github.com/InverseFlash/My-Face-Recognition)
 - **Live Demo**: [Click here](https://dry-citadel-98524.herokuapp.com/)
 - A multi-component web application to demonstrate the capabilities of Clarifai’s facial recognition API
 
 ### Robofriends
 
-- **Stack**: Javascript, React, Redux, GitHub Pages
+- **Stack**: Javascript - React - Redux - GitHub Pages
 - **GitHub**: [robofriends](https://github.com/InverseFlash/robofriends)
 - **Live Demo**: [Click here](https://inverseflash.github.io/robofriends/)
 - A web app built with react, redux, redux middleware and loggers to demonstrate redux working with react.
 
-### Weather-By-Me (WIP)
+### news (work in progress)
 
-- **Stack**: Dart, Flutter, RxDart
-- **GitHub**: [Weather-By-Me](https://github.com/InverseFlash/weather_by_me)
-- A mobile weather app using BLoC pattern with RxDart.
+- **Stack**: Dart - Flutter - RxDart - SQLite
+- **GitHub**: [news](https://github.com/InverseFlash/hacker_news)
+- Fetches and displays Hacker News posts using efficient data-fetching techniques and caching. Built using the BLoC pattern of state management for maintainable code, and SQLite for local caching of fetched data.
 
 ## Contact
 
