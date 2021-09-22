@@ -37,6 +37,7 @@ You can find **[links](https://inverseflash.github.io/Justin-Stosic/#Portfolio)*
 - **Stack**: Dart - Flutter - RxDart - SQLite
 - **GitHub**: [news](https://github.com/InverseFlash/hacker_news)
 - Fetches and displays Hacker News posts using efficient data-fetching techniques and caching. Built using the BLoC pattern of state management for maintainable code, and SQLite for local caching of fetched data.
+  ![news screen recording](https://github.com/InverseFlash/hacker_news/blob/main/media/gifs/news-recording-gif-compress.gif)
 
 ## Contact
 
